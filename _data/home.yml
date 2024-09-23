@@ -5,17 +5,14 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
-
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: MPH Community practicum
+    url: _posts/2024-09-12-mph-practicum-post.md
+    desc: Documentation related to my community practicum project I completed to earn my Master of Public Health.
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Study History Database
+    url: _posts/2024-09-22-study-history-database.md
+    desc: Database I created using Microsoft Access collecting information related to the various research studies and clinical trials my site has conducted. A work in progress.
 
   - title: Project 3
     url: overview-post
@@ -79,15 +76,6 @@ misc_entries:
   - title: Blog posts
     post_list: true
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false
