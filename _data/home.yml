@@ -5,6 +5,9 @@ navbar_entries:
   - title: blog
     url: blog
 
+  - title: resume
+    url: assets/RossOlivia_Resume_1Page.pdf
+
 project_entries:
   - title: MPH Community practicum
     url: _posts/2024-09-12-mph-practicum-post.md
