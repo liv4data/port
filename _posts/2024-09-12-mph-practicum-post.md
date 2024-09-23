@@ -3,8 +3,9 @@ layout: post
 author: Olivia Ross
 ---
 
-# mph-practicum
+# MPH-practicum
 This repository contains files and text related to my community practicum project. 
+
 ## Background
 As a Master of Public Health candidate, I was required to complete a community practicum project with a minimum of 200 contact hours on the project. I completed my practicum at the Foodbank of Southeastern Virginia and the Eastern Shore (Foodbank or FSEVA), as I was drawn to their focus on food equity and their core values of people, quality, integrity, stewardship, and collaboration. Through their assistance programs, they operate to distribute foods to clients, and obtain food through purchases, donations, or commodities provided by the United States Department of Agriculture (USDA). 
 
